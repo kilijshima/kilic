@@ -32,8 +32,8 @@
      {
       "id":1,
       "title":"Pasta tarifleri",
-      "image":"",
-      "link":"https://play.google.com/"
+      "image":"file:///android_asset/",
+      "link":"https://play.google.com/Kiliç"
     }
   ]
 }
